@@ -110,7 +110,7 @@ hr{
 
     width: 100%;
     height: 550px;
-    background: url('/img/pexels-freestocksorg-839465.jpg') no-repeat center center/cover;
+    background: url('../img/pexels-freestocksorg-839465.jpg') no-repeat center center/cover;
     padding: 50px;
     margin-bottom: 20px;
     display: flex;
@@ -197,7 +197,7 @@ hr{
     width: 100%;
     height: 350px;
     color: rgb(255, 255, 255);
-    background: url('/img/pexels-burst-374897.jpg') no-repeat center center/cover;
+    background: url('../img/pexels-burst-374897.jpg') no-repeat center center/cover;
     margin-bottom: 40px;
 }
 
@@ -216,7 +216,7 @@ hr{
 
 .cards-banner-two{
 
-    background: url('/img/pexels-felix-mittermeier-956999.jpg') no-repeat center center/cover;
+    background: url('../img/pexels-felix-mittermeier-956999.jpg') no-repeat center center/cover;
     width: 100%;
     height: 350px;
 }
